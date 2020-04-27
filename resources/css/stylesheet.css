@@ -66,19 +66,3 @@ body {
 	width: 30%;
 }
 
-/*@media screen and (max-width: 900px) {
-
-.profil {
-	width: 50%;
-	text-align: center;
-	}
-}
-*/
-
-@media screen and (max-width: 600px) {
-
-.profil {
-	width: 100%;
-	text-align: center;
-	}
-}
