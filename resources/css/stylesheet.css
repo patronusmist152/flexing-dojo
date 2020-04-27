@@ -40,11 +40,7 @@ body {
 	height: 200px;
 }
 
-.desc {
-	padding: 15px;
-}
-
-.desc h3 {
+.profil h3 {
 	margin-bottom: 5px;
 }
 
@@ -56,7 +52,7 @@ body {
 	color: rgba(226,11,73,0.8);
 }
 
-.desc p {	
+.profil p {	
 	color: #b3aeb5;
 	margin-bottom: 10px;
 }
