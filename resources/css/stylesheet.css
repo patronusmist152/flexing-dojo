@@ -27,6 +27,7 @@ body {
 .profil {
 	margin: 5px;
 	flex: auto;
+	width: 100%;
 	text-align: center;
 }
 
