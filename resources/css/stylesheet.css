@@ -23,18 +23,20 @@ body {
 	padding: 0 5px;
 	margin: 0 auto;
 	display: flex;
+	justify-content: center;
 }  
 
 .profil {
 	margin: 5px;
 	flex-grow: 1;
+	flex: auto;
 	width: 33.33%;
 	text-align: center;
 }
 
 .profil img {
 	width: auto;
-	height: 150px;
+	height: 200px;
 }
 
 .desc {
